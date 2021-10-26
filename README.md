@@ -1,5 +1,6 @@
 # Down-Time-Tracking-System
 ###### Instructions
+
 1.	Go to SharePoint homepage & click on the settings icon on the top right hand side of the page
 
 2.	Select ‘Site Contents’
